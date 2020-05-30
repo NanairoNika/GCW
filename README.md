@@ -3,6 +3,8 @@ Graduation Course Work
 
 The main data from which was data extracted: positive.csv, negative.csv, frames.json
 
+Small utility functions are in the utility.py
+
 Contains two methods of preprocessing:
   1. Using nltk.word_tokenize + pymorphy2
   2. Using deeppavlov
