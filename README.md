@@ -8,4 +8,5 @@ The classification part is nearly close to each other
 For the first method use data "train_data.csv" and "test_data.csv"
 
 The best results for the first method: 86% by K-neighbours
+
 The best results for the second method: ///
